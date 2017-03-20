@@ -3,9 +3,9 @@
 <html lang="en-us">
 
 <head>
-	<title>Mangalore Nursery, Mangalore - Indoor and Fruit Plants, Seeds Supplier</title>
+	<title>Sunshade Nursery, Mangalore - Indoor and Fruit Plants, Seeds Supplier</title>
 	
-	<meta name="author" content="Mangalore Nursery">
+	<meta name="author" content="Sunshade Nursery">
 	
 	<meta name="description" content="If you have a dream of gardening, if you are a fond of collecting valuable and ornamental plants for your premises, we will provide you the best budget solution, keeping and maintaining the outstanding qualities and consultancy services.">
 	
@@ -17,7 +17,7 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title></title>
+	<title>Sunshade Nursery, Mangalore</title>
 	
 	<!-- CSS files -->
 
